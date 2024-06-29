@@ -3,6 +3,6 @@
 
 
 # 💻 CTF 
-- [1. Easy]([CONTRIBUTING.md](https://github.com/AyslanBatista/TryHackMe/tree/main/CTF/1-Easy))
+- [1. Easy](https://github.com/AyslanBatista/TryHackMe/tree/main/CTF/1-Easy)
     - [Pickle Rick](https://github.com/AyslanBatista/TryHackMe/tree/main/CTF/1-Easy/pickle_rick)
 
