@@ -155,7 +155,7 @@ hydra -l eddie -P /usr/share/wordlists/rockyou.txt -vV ftp://$IP:10021
 
 #### I got the password for both users
 <details>
-    <summary>Nmap result:</summary>
+    <summary>User/Password:</summary>
 
     ```
     login: quinn   password: andrea
